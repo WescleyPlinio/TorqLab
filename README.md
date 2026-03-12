@@ -1,6 +1,6 @@
 # TORQ LAB - Landing Page para Personal Trainers
 
-![TORQ LAB Logo](miga/logo.png)
+![TORQ LAB Logo](imgs/logo.png)
 
 Landing page profissional desenvolvida para o TORQ LAB, um estúdio de personal training especializado em ciência e estratégia para alta performance esportiva.
 
