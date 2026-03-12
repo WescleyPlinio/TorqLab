@@ -40,7 +40,7 @@ ramework CSS para grid e componentes responsivos
 **TORQ LAB** - *Ciência e estratégia para a performance*
 
 
-## Desenvolvido por
+## 💻 Desenvolvido por
 [@cavaleirografico](https://github.com/cavaleirografico)
 
 
