@@ -1,7 +1,5 @@
 # TORQ LAB - Landing Page para Personal Trainers
 
-# TORQ LAB - Landing Page para Personal Trainers
-
 <p align="center">
   <img src="imgs/logo.png" alt="TORQ LAB Logo" width="150" height="auto">
 </p>
